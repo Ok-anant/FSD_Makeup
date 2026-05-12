@@ -142,6 +142,3 @@ Developed by **Anant**
 
 GitHub: https://github.com/Ok-anant
 
-
-
-Give this repository a ⭐ on GitHub!
